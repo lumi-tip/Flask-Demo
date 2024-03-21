@@ -35,7 +35,7 @@ Al activar el entorno virtual, verás que el prefijo de tu terminal cambia, indi
 
 Con el entorno virtual activado, instala las dependencias del proyecto ejecutando:
 
-# pip install -r requirements.txt
+# pip install flask
 
 Esto instalará todas las bibliotecas y paquetes necesarios para ejecutar la aplicación Flask.
 
@@ -43,18 +43,9 @@ Esto instalará todas las bibliotecas y paquetes necesarios para ejecutar la apl
 
 Una vez que hayas configurado el entorno virtual y instalado las dependencias, puedes ejecutar la aplicación Flask. Asegúrate de estar en el directorio raíz del proyecto y luego ejecuta:
 
-# ppython app.py
+# flask --app (ruta) run
 
 Esto iniciará el servidor Flask y podrás acceder a tu aplicación en tu navegador web visitando [http://localhost:5000](http://localhost:5000).
-
-## Contribuir
-
-Si deseas contribuir a este proyecto, por favor consulta el archivo CONTRIBUTING.md para obtener más detalles sobre cómo puedes participar.
-
-## Información adicional
-
-Cualquier información adicional que desees agregar sobre tu aplicación puede ir aquí.
-
 
 
 
