@@ -14,7 +14,7 @@ Es altamente recomendado que configures un entorno virtual de Python para este p
 2. Navega al directorio raíz de este proyecto.
 3. Ejecuta el siguiente comando para crear un nuevo entorno virtual utilizando `venv`:
 
-# python3 -m venv venv
+# py -3 -m venv .venv
 
 4. Una vez que el entorno virtual se haya creado con éxito, activa el entorno virtual. Dependiendo de tu sistema operativo, los comandos pueden variar:
 - En macOS y Linux:
