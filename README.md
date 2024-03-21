@@ -1,6 +1,6 @@
 # Demo Flask
 
-Breve descripción de tu aplicación aquí.
+Mi aplicación Flask es una implementación básica de una aplicación web utilizando el framework Flask de Python. Esta aplicación sigue las mejores prácticas recomendadas por la documentación oficial de Flask. Incluye un servidor Flask configurado y listo para ejecutarse, así como un entorno virtual preconfigurado para facilitar el desarrollo. La aplicación también muestra cómo estructurar un proyecto Flask típico, con rutas, plantillas HTML y archivos estáticos. Es un excelente punto de partida para aquellos que desean aprender Flask o comenzar un proyecto web con Python
 
 ## Requisitos previos
 
